@@ -1,0 +1,11 @@
+keras
+tensorflow
+numpy
+matplotlib
+ipykernel
+jupyter
+scikit-image
+imageio
+pillow
+tqdm
+beautifulsoup4
